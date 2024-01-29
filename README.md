@@ -17,6 +17,6 @@ Nothing really... it is just a bot that plays one song 24/7.
 
 _________________________________________________________
 
-The Seal Legal Team have told me that I need to share with you the following links:
+The Seal Legal Team has told me that I need to share with you the following links:
 
-[] [] []
+[Patreon]() [Terms of Service]() [Privacy Policy]()
