@@ -19,4 +19,4 @@ _________________________________________________________
 
 The Seal Legal Team has told me that I need to share with you the following links:
 
-[Patreon](https://www.patreon.com/drageno01) [Terms of Service](https://github.com/DRAGEno01/Spinning-Seal/blob/main/Documents/ToS.md) [Privacy Policy](https://github.com/DRAGEno01/Spinning-Seal/blob/main/Documents/PrivacyPolicy)
+[Patreon](https://www.patreon.com/drageno01) [Terms of Service](https://github.com/DRAGEno01/Spinning-Seal/blob/main/Documents/ToS.md) [Privacy Policy](https://github.com/DRAGEno01/Spinning-Seal/blob/main/Documents/PrivacyPolicy.md)
